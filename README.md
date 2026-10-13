@@ -25,4 +25,4 @@ A classic Tic-Tac-Toe game developed as a web-based application using HTML, CSS,
 
 ## Live Demo
 
-Coming Soon!
+https://anushka1021.github.io/Tic-Tac-Toe/
